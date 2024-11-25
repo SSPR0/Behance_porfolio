@@ -1,0 +1,22 @@
+[
+  {
+    "id": "99eee65fdf7e54d632431caa715392d9c91b41ae",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitive/degault": "source",
+      "semantic/color-light": "enabled"
+    },
+    "group": "modes-color"
+  },
+  {
+    "id": "c3ee9a423bfe1511f2fe3cc0be7a2a17903583c4",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitive/degault": "source",
+      "semantic/color-dark": "enabled"
+    },
+    "group": "modes-color"
+  }
+]

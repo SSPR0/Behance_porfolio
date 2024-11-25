@@ -1,0 +1,7 @@
+{
+  "tokenSetOrder": [
+    "primitive/degault",
+    "semantic/color-light",
+    "semantic/color-dark"
+  ]
+}
